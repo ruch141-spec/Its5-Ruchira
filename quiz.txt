@@ -1,0 +1,13 @@
+Fill-in-the-blanks Quiz:
+
+1. GitHub is a web-based platform built for developers to collaborate on projects using ________ version control system.
+
+2. Many of the world's most widely used open-________ projects are hosted on GitHub.
+
+3. The ________ file is essential for understanding a software project, providing information about its purpose, functionality, usage instructions, and other details. This file acts as a roadmap, offering clarity on how to get started with the project.
+
+4. When working with Git, developers often push changes from their local repository to the ________ repository to share their work with others and synchronize the codebase.
+
+5. The ________ branch in Git typically represents the stable and production-ready version of the codebase, serving as the primary reference point for development and releases.
+
+6. A merge ________ occurs in Git when there are conflicting changes between different branches or commits, requiring manual intervention to resolve the discrepancies and complete the merge process.
